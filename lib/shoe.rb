@@ -19,8 +19,8 @@ attr_reader: :brand
   #   @condition=condition
   # end 
   def cobble
-    puts 
-    
+    puts "Your shoe is as good as new!"
+  end 
 
 end
 shoe1=Shoe.new("Adidas")
