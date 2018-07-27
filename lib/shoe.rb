@@ -22,4 +22,5 @@ class Shoe
   end 
 
 end
-shoe1=Shoe.new("Adidas")
+shoe1=Shoe.new("Adidas", "Pink","10","Velvet","New")
+puts shoe1.size
