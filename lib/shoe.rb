@@ -18,6 +18,7 @@ attr_reader: :brand
   # def condition=(condition)
   #   @condition=condition
   # end 
+  def 
 
 end
 shoe1=Shoe.new("Adidas")
