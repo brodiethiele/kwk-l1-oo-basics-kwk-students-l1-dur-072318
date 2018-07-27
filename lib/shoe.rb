@@ -22,4 +22,4 @@ class Shoe
   end 
 
 end
-shoe1=Shoe.new("Adidas", "Pink","10","Velvet","New")
+shoe1=Shoe.new("Adidas")
